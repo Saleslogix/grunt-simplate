@@ -1,6 +1,6 @@
 grunt-simplate
 ======================
-Pre-compile your simplate templates. amd option is optional and takes a module identifier if supplied.
+Pre-compile your [Simplate](https://github.com/Saleslogix/simplate) templates. amd option is optional and takes a module identifier if supplied.
 
 
 Example Gruntfile.js:
