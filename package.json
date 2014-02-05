@@ -1,6 +1,13 @@
 {
   "name": "grunt-simplate",
   "version": "0.1.0",
+  "dependencies": {
+    "ast-traverse": "~0.1.1",
+    "esprima": "~1.0.4"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.0"
+  },
   "devDependencies": {
     "grunt": "~0.4.0",
     "ast-traverse": "~0.1.1",
