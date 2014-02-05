@@ -1,4 +1,4 @@
-grunt-contrib-nls-copy
+grunt-simplate
 ======================
 Pre-compile your simplate templates. amd option is optional and takes a module identifier if supplied.
 
